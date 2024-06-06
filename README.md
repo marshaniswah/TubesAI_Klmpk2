@@ -1,4 +1,4 @@
-# Bitcoin USD Prediction using Time Series Forecasting with LSTM
+# Bitcoin USD Prediction with Time Series Forecasting using LSTM vs GRU
 This repository contains the materials, dataset, and code for predicting BTC-USD using Long Short-Term Memory (LSTM) neural networks.
 
 **Authors**<br>
@@ -8,7 +8,7 @@ This repository contains the materials, dataset, and code for predicting BTC-USD
 
 **Project Overview**
 <br>
-The goal of this project is to predict the price of Bitcoin in USD using a time series forecasting approach with LSTM. LSTM networks are well-suited for making predictions based on time series data due to their ability to capture long-term dependencies.
+The goal of this project is to predict the price of Bitcoin in USD using a time series forecasting approach with LSTM and GRU. The result of both two models will be compared to know which model suits the best to this dataset. 
 
 **Repository Structure**
 <br>
