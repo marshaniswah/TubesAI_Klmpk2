@@ -1,5 +1,5 @@
-# Bitcoin USD Prediction with Time Series Forecasting using LSTM vs GRU
-This repository contains the materials, dataset, and code for predicting BTC-USD using Long Short-Term Memory (LSTM) neural networks.
+# Bitcoin USD Prediction with Time Series Forecasting using LSTM and GRU
+This repository contains the materials, dataset, and code for predicting BTC-USD using Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU)
 
 **Authors**<br>
 1. Aldira Fadhilah Lazuardi - 1101200372<br>
@@ -23,3 +23,4 @@ TensorFlow<br>
 Keras<br>
 Matplotlib<br>
 Scikit-learn<br>
+Pandas <br>
